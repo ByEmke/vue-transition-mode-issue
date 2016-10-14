@@ -19,7 +19,7 @@
     "vue-hot-reload-api": "^2.0.6"
   },
   "scripts": {
-    "watch": "./node_modules/.bin/webpack --watch --progress --color"
+    "watch": "./node_modules/.bin/webpack --watch --progress --color",
     "build": "./node_modules/.bin/webpack"
   },
   "author": "",
